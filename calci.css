@@ -1,0 +1,12 @@
+body{
+
+    background-color: sandybrown;
+}
+
+div{
+    border: 1px solid black;
+    width: 108px;
+}
+#do{
+    width: 100px;
+}
